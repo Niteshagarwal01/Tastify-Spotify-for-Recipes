@@ -13,13 +13,14 @@ A modern, sleek recipe discovery app with a Spotify-like interface for browsing,
 
 ## 📱 Screenshots
 
-*Add your app screenshots here*
-<!-- 
-![Home Screen](screenshots/home.jpg)
-![Recipe Detail](screenshots/recipe-detail.jpg) 
-![Favorites](screenshots/favorites.jpg)
-![Search](screenshots/search.jpg)
--->
+<img width="636" height="1400" alt="image" src="https://github.com/user-attachments/assets/7911efaa-4f31-4b09-b521-77f2aaf64179" />
+<img width="636" height="1400" alt="image" src="https://github.com/user-attachments/assets/ff8d11e7-2b6e-4e1f-aff9-94c4d310e229" />
+<img width="636" height="1400" alt="image" src="https://github.com/user-attachments/assets/9198ac09-6305-48eb-b0af-6b6a57d780af" />
+<img width="636" height="1400" alt="image" src="https://github.com/user-attachments/assets/da0e64be-ffa3-44c6-9c3d-27d8fa5cfe2c" />
+<img width="636" height="1400" alt="image" src="https://github.com/user-attachments/assets/fd59b467-ce9c-4c21-8014-8bf988d4e551" />
+<img width="636" height="1400" alt="image" src="https://github.com/user-attachments/assets/22c1d940-888d-4d3c-a702-b94aef775321" />
+<img width="636" height="1400" alt="image" src="https://github.com/user-attachments/assets/4e4e3af6-98b5-459e-9260-7dd2369136ae" />
+
 
 ## ✨ Key Features
 
